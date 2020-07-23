@@ -60,7 +60,11 @@ public class MagnumActivity extends AppCompatActivity {
                 query.addValueEventListener(new ValueEventListener() {
                     @Override
                     public void onDataChange(@NonNull DataSnapshot snapshot) {
-
+                        for (DataSnapshot ds : snapshot.getChildren()){
+                            String age = ""+ ds.child("age").getValue();
+                            tv_1st.setText(age);
+                        }
+                        
                     }
 
                     @Override
