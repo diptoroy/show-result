@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "81460160891",
+    "firebase_url": "https://live-4d-result-a49ef.firebaseio.com",
+    "project_id": "live-4d-result-a49ef",
+    "storage_bucket": "live-4d-result-a49ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81460160891:android:469290a29152b41d8eb5de",
+        "android_client_info": {
+          "package_name": "com.example.live4dresult"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "81460160891-fgf8i3loco7q503qishlf4tap0gjdds9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_aRVTNTiI3kuDiklVm0nKtyLtCLCDbZA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "81460160891-fgf8i3loco7q503qishlf4tap0gjdds9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
